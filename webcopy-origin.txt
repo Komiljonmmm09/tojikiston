@@ -1,0 +1,112 @@
+Uri: https://storage.googleapis.com/mm-kode.appspot.com/assets/20231128_135438/css/Home.bundle.css
+File Name: C:\Downloaded Web Sites\www.kodeclubs.com\mm-kode.appspot.com\assets\20231128_135438\css\Home.bundle.css
+Content Type: text/css
+
+Uri: https://storage.googleapis.com/mm-kode.appspot.com/assets/20231128_135438/fonts/AntiqueOlive-Compact.woff
+File Name: C:\Downloaded Web Sites\www.kodeclubs.com\mm-kode.appspot.com\assets\20231128_135438\fonts\AntiqueOlive-Compact.woff
+Content Type: font/woff
+
+Uri: https://storage.googleapis.com/mm-kode.appspot.com/assets/20231128_135438/fonts/AntiqueOlive-Compact.woff2
+File Name: C:\Downloaded Web Sites\www.kodeclubs.com\mm-kode.appspot.com\assets\20231128_135438\fonts\AntiqueOlive-Compact.woff2
+Content Type: font/woff2
+
+Uri: https://storage.googleapis.com/mm-kode.appspot.com/assets/20231128_135438/fonts/AntiqueOlive.woff
+File Name: C:\Downloaded Web Sites\www.kodeclubs.com\mm-kode.appspot.com\assets\20231128_135438\fonts\AntiqueOlive.woff
+Content Type: font/woff
+
+Uri: https://storage.googleapis.com/mm-kode.appspot.com/assets/20231128_135438/fonts/AntiqueOlive.woff2
+File Name: C:\Downloaded Web Sites\www.kodeclubs.com\mm-kode.appspot.com\assets\20231128_135438\fonts\AntiqueOlive.woff2
+Content Type: font/woff2
+
+Uri: https://storage.googleapis.com/mm-kode.appspot.com/assets/20231128_135438/static/app/Kode_Terms_and_Conditions.pdf
+File Name: C:\Downloaded Web Sites\www.kodeclubs.com\mm-kode.appspot.com\assets\20231128_135438\static\app\Kode_Terms_and_Conditions.pdf
+Content Type: application/pdf
+
+Uri: https://storage.googleapis.com/mm-kode.appspot.com/assets/20231128_135438/static/app/map-menu.png
+File Name: C:\Downloaded Web Sites\www.kodeclubs.com\mm-kode.appspot.com\assets\20231128_135438\static\app\map-menu.png
+Content Type: image/png
+
+Uri: https://storage.googleapis.com/mm-kode.appspot.com/assets/20231128_135438/static/app/Pattern.png
+File Name: C:\Downloaded Web Sites\www.kodeclubs.com\mm-kode.appspot.com\assets\20231128_135438\static\app\Pattern.png
+Content Type: image/png
+
+Uri: https://storage.googleapis.com/mm-kode.appspot.com/assets/20231128_135438/static/app/sparkles.png
+File Name: C:\Downloaded Web Sites\www.kodeclubs.com\mm-kode.appspot.com\assets\20231128_135438\static\app\sparkles.png
+Content Type: image/png
+
+Uri: https://storage.googleapis.com/mm-kode.appspot.com/assets/20231128_135438/static/app/tutorial.png
+File Name: C:\Downloaded Web Sites\www.kodeclubs.com\mm-kode.appspot.com\assets\20231128_135438\static\app\tutorial.png
+Content Type: image/png
+
+Uri: https://storage.googleapis.com/mm-kode.appspot.com/assets/20231128_135438/static/icons/apple-touch-icon-114x114.png
+File Name: C:\Downloaded Web Sites\www.kodeclubs.com\mm-kode.appspot.com\assets\20231128_135438\static\icons\apple-touch-icon-114x114.png
+Content Type: image/png
+
+Uri: https://storage.googleapis.com/mm-kode.appspot.com/assets/20231128_135438/static/icons/apple-touch-icon-120x120.png
+File Name: C:\Downloaded Web Sites\www.kodeclubs.com\mm-kode.appspot.com\assets\20231128_135438\static\icons\apple-touch-icon-120x120.png
+Content Type: image/png
+
+Uri: https://storage.googleapis.com/mm-kode.appspot.com/assets/20231128_135438/static/icons/apple-touch-icon-144x144.png
+File Name: C:\Downloaded Web Sites\www.kodeclubs.com\mm-kode.appspot.com\assets\20231128_135438\static\icons\apple-touch-icon-144x144.png
+Content Type: image/png
+
+Uri: https://storage.googleapis.com/mm-kode.appspot.com/assets/20231128_135438/static/icons/apple-touch-icon-152x152.png
+File Name: C:\Downloaded Web Sites\www.kodeclubs.com\mm-kode.appspot.com\assets\20231128_135438\static\icons\apple-touch-icon-152x152.png
+Content Type: image/png
+
+Uri: https://storage.googleapis.com/mm-kode.appspot.com/assets/20231128_135438/static/icons/apple-touch-icon-167x167.png
+File Name: C:\Downloaded Web Sites\www.kodeclubs.com\mm-kode.appspot.com\assets\20231128_135438\static\icons\apple-touch-icon-167x167.png
+Content Type: image/png
+
+Uri: https://storage.googleapis.com/mm-kode.appspot.com/assets/20231128_135438/static/icons/apple-touch-icon-180x180.png
+File Name: C:\Downloaded Web Sites\www.kodeclubs.com\mm-kode.appspot.com\assets\20231128_135438\static\icons\apple-touch-icon-180x180.png
+Content Type: image/png
+
+Uri: https://storage.googleapis.com/mm-kode.appspot.com/assets/20231128_135438/static/icons/apple-touch-icon-57x57.png
+File Name: C:\Downloaded Web Sites\www.kodeclubs.com\mm-kode.appspot.com\assets\20231128_135438\static\icons\apple-touch-icon-57x57.png
+Content Type: image/png
+
+Uri: https://storage.googleapis.com/mm-kode.appspot.com/assets/20231128_135438/static/icons/apple-touch-icon-60x60.png
+File Name: C:\Downloaded Web Sites\www.kodeclubs.com\mm-kode.appspot.com\assets\20231128_135438\static\icons\apple-touch-icon-60x60.png
+Content Type: image/png
+
+Uri: https://storage.googleapis.com/mm-kode.appspot.com/assets/20231128_135438/static/icons/apple-touch-icon-72x72.png
+File Name: C:\Downloaded Web Sites\www.kodeclubs.com\mm-kode.appspot.com\assets\20231128_135438\static\icons\apple-touch-icon-72x72.png
+Content Type: image/png
+
+Uri: https://storage.googleapis.com/mm-kode.appspot.com/assets/20231128_135438/static/icons/apple-touch-icon-76x76.png
+File Name: C:\Downloaded Web Sites\www.kodeclubs.com\mm-kode.appspot.com\assets\20231128_135438\static\icons\apple-touch-icon-76x76.png
+Content Type: image/png
+
+Uri: https://storage.googleapis.com/mm-kode.appspot.com/assets/20231128_135438/static/icons/favicon-16x16.png
+File Name: C:\Downloaded Web Sites\www.kodeclubs.com\mm-kode.appspot.com\assets\20231128_135438\static\icons\favicon-16x16.png
+Content Type: image/png
+
+Uri: https://storage.googleapis.com/mm-kode.appspot.com/assets/20231128_135438/static/icons/favicon-32x32.png
+File Name: C:\Downloaded Web Sites\www.kodeclubs.com\mm-kode.appspot.com\assets\20231128_135438\static\icons\favicon-32x32.png
+Content Type: image/png
+
+Uri: https://www.googletagmanager.com/gtag/js?id=G-VJ23EMBSVR
+File Name: C:\Downloaded Web Sites\www.kodeclubs.com\gtag\js
+Content Type: application/javascript
+
+Uri: https://www.kodeclubs.com/
+File Name: C:\Downloaded Web Sites\www.kodeclubs.com\index.htm
+Content Type: text/html
+
+Uri: https://www.kodeclubs.com/about
+File Name: C:\Downloaded Web Sites\www.kodeclubs.com\about.html
+Content Type: text/html
+
+Uri: https://www.kodeclubs.com/dashboard
+File Name: C:\Downloaded Web Sites\www.kodeclubs.com\dashboard.html
+Content Type: text/html
+
+Uri: https://www.kodeclubs.com/favicon.ico?v=2
+File Name: C:\Downloaded Web Sites\www.kodeclubs.com\favicon.ico
+Content Type: image/x-icon
+
+Uri: https://www.kodeclubs.com/overview
+File Name: C:\Downloaded Web Sites\www.kodeclubs.com\overview.html
+Content Type: text/html
+
